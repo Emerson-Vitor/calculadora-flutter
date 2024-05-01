@@ -1,4 +1,4 @@
-import 'package:calculator/state/calculator_service.dart';
+import 'package:calculator/shared/state/calculator_service.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
